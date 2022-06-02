@@ -1,6 +1,0 @@
-C:\Users\user\Documents\ViNik\monopoly\bin\Debug\monopoly.exe.config
-C:\Users\user\Documents\ViNik\monopoly\bin\Debug\monopoly.exe
-C:\Users\user\Documents\ViNik\monopoly\bin\Debug\monopoly.pdb
-C:\Users\user\Documents\ViNik\monopoly\obj\Debug\monopoly.exe
-C:\Users\user\Documents\ViNik\monopoly\obj\Debug\monopoly.pdb
-C:\Users\user\Documents\ViNik\monopoly\obj\Debug\monopoly.csprojAssemblyReference.cache
